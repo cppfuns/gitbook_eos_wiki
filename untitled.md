@@ -1,4 +1,4 @@
-# Initial page
+# EOS Wiki
 
 ## Getting Super Powers
 
